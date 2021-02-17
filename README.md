@@ -1,6 +1,6 @@
 # Recipe calculator
 
-## At home, we use this program when we plan our weekly meals, before we go shopping. It helps us not only keep our choices original and interesting, but it also helps us save a lot of time when we plan our meals.
+### At home, we use this program when we plan our weekly meals, before we go shopping. It helps us not only keep our choices original and interesting, but it also helps us save a lot of time when we plan our meals.
 
 <img src="https://static01.nyt.com/images/2017/09/25/dining/bonebrothchickenstock/bonebrothchickenstock-articleLarge.jpg">
 
